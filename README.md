@@ -19,13 +19,13 @@ type /help easymathr
 or /easymath help
 
 
-- Commands
- /mul (Number1) (Number2) : Multiple
- /div (Number1) (Number2) : Divison
- /plus (Number1) (Number2) : Plus
- /min (Number1) (Number2) : Minus
- /fibonacci (Number) : Fibonacci
- /factorial (Number) : Factorial
- /mathroot (Number) : Root
- /easymath : Show reason for why I make this plugin.
- /easymath help : Get help
+# Commands
+ - /mul (Number1) (Number2) : Multiple
+ - /div (Number1) (Number2) : Divison
+ - /plus (Number1) (Number2) : Plus
+ - /min (Number1) (Number2) : Minus
+ - /fibonacci (Number) : Fibonacci
+ - /factorial (Number) : Factorial
+ - /mathroot (Number) : Root
+ - /easymath : Show reason for why I make this plugin.
+ - /easymath help : Get help
