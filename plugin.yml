@@ -1,0 +1,16 @@
+name: EasyMathR
+main: dev.hapoom.easym.Main
+version : 1.0.3
+author: rHapoom
+
+commands:
+  easymath:
+    description: Show Detials about this plugin
+  math:
+    description: Math
+  fibonacci:
+    description: Fibonacci
+  factorial:
+    description: Factorial
+  mathroot:
+    description: Root
