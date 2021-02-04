@@ -20,10 +20,10 @@ or /easymath help
 
 
 # Commands
- - /mul (Number1) (Number2) : Multiple
- - /div (Number1) (Number2) : Divison
- - /plus (Number1) (Number2) : Plus
- - /min (Number1) (Number2) : Minus
+ - /math mul (Number1) (Number2) : Multiple
+ - /math div (Number1) (Number2) : Divison
+ - /math plus (Number1) (Number2) : Plus
+ - /math min (Number1) (Number2) : Minus
  - /fibonacci (Number) : Fibonacci
  - /factorial (Number) : Factorial
  - /mathroot (Number) : Root
